@@ -1,1 +1,2 @@
 # GameConfigs
+Funktionstest
